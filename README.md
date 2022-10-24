@@ -1,2 +1,2 @@
 # microservice_example
-microservices_example with Python using Django as the framework 
+Example of a costumer microservice with Python using Django as the framework 
