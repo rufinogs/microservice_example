@@ -9,4 +9,4 @@ To launch the environment and the containers:
 
 2.- run in terminal this command: docker-compose --env-file .env up --build django_app
 
-3.- To finish the containers you should use this command: docker-compose down 
+3.- To finish the containers you should use this command: docker-compose down -v
