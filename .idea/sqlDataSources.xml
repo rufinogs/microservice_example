@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c8be3362-fd10-4894-bc16-fb32a11eec1f" name="django_db@localhost Mapping">
+      <data-sources db="1a4a822e-a438-4418-aeb6-d511e934a4fe" />
+      <scope>
+        <node kind="database" qname="django_db" />
+      </scope>
+    </mapping>
+  </component>
+</project>
